@@ -1,4 +1,4 @@
-# Ancua Blog
+# AncuaBlog
 
 <p align="center">
   <img alt="landing page" src="https://github.com/raymondtju/ancua-blog/assets/75233529/36d39c01-3336-48df-bb60-2f94c96e3103" width="45%">
